@@ -1,2 +1,2 @@
 # Programming-Techniques-HW-1-
-# Programming-Techniques-HW-1-
+This is a the code repository for home work -1 in programming techniques class. There are four code implementation are there. The sorting algorithms - insertion sort, quicksort, merge sor and count sorts time complexity are checked in here with these code.
